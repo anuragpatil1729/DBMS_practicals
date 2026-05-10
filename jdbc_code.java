@@ -6,7 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.Scanner;
 
-public class StudentRecordApp {
+public class jdbc_code {
     public static void main(String[] args) {
 
         // Database connection details
